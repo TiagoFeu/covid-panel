@@ -1,0 +1,10 @@
+version: "3.3"
+services:
+  pandas:
+    container_name: 'covid_panel'
+    command: bash -c "jupyter lab --notebook-dir=/home/covid_panel --ip='0.0.0.0' --port=8888 --no-browser --allow-root"
+    build: .
+    ports:
+      - '8888:8888'
+    volumes:
+      - ../:/home/covid_panel
