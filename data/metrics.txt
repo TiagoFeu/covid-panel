@@ -1,0 +1,7 @@
+Number of cases in period: 797165
+Percentage of hospitalized cases: 4.2%
+Percentage of dead cases: 2.69%
+Percentage of hospitalized cases that died: 48.64%
+Average age in days: 70 years, 4 months and 15 days
+Standard deviation in days: 15 years, 9 months and 20 days
+Percentage of dead people that had no comorbidities: 32.83%
