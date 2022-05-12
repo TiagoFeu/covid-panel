@@ -1,4 +1,3 @@
-from tkinter.ttk import Separator
 import pandas as pd
 import datetime as date
 
